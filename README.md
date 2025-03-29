@@ -406,7 +406,7 @@ https://github.com/skoro/awesome-php
 - https://www.tutorialrepublic.com/php-tutorial/
 - https://www.learn-php.org/
 - https://www.guru99.com/php-tutorials.html
-- https://www.javatpoint.com/php-tutorial
+- https://www.tpointtech.com/php-tutorial
 - http://www.tizag.com/phpT/
 - https://www.geeksforgeeks.org/php/
 - https://stackify.com/learn-php-tutorials/ 
